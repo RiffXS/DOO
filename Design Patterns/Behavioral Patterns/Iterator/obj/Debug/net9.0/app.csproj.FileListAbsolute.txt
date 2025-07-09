@@ -1,0 +1,15 @@
+C:\Users\R2\code\study\university\DOO & PS\Desenvolvimento Orientado a Objetos (DOO)\Design Patterns\Behavioral Patterns\Iterator\obj\Debug\net9.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R2\code\study\university\DOO & PS\Desenvolvimento Orientado a Objetos (DOO)\Design Patterns\Behavioral Patterns\Iterator\obj\Debug\net9.0\app.AssemblyInfoInputs.cache
+C:\Users\R2\code\study\university\DOO & PS\Desenvolvimento Orientado a Objetos (DOO)\Design Patterns\Behavioral Patterns\Iterator\obj\Debug\net9.0\app.AssemblyInfo.cs
+C:\Users\R2\code\study\university\DOO & PS\Desenvolvimento Orientado a Objetos (DOO)\Design Patterns\Behavioral Patterns\Iterator\obj\Debug\net9.0\app.csproj.CoreCompileInputs.cache
+C:\Users\R2\code\study\university\DOO & PS\Desenvolvimento Orientado a Objetos (DOO)\Design Patterns\Behavioral Patterns\Iterator\obj\Debug\net9.0\app.sourcelink.json
+C:\Users\R2\code\study\university\DOO & PS\Desenvolvimento Orientado a Objetos (DOO)\Design Patterns\Behavioral Patterns\Iterator\bin\Debug\net9.0\app.exe
+C:\Users\R2\code\study\university\DOO & PS\Desenvolvimento Orientado a Objetos (DOO)\Design Patterns\Behavioral Patterns\Iterator\bin\Debug\net9.0\app.deps.json
+C:\Users\R2\code\study\university\DOO & PS\Desenvolvimento Orientado a Objetos (DOO)\Design Patterns\Behavioral Patterns\Iterator\bin\Debug\net9.0\app.runtimeconfig.json
+C:\Users\R2\code\study\university\DOO & PS\Desenvolvimento Orientado a Objetos (DOO)\Design Patterns\Behavioral Patterns\Iterator\bin\Debug\net9.0\app.dll
+C:\Users\R2\code\study\university\DOO & PS\Desenvolvimento Orientado a Objetos (DOO)\Design Patterns\Behavioral Patterns\Iterator\bin\Debug\net9.0\app.pdb
+C:\Users\R2\code\study\university\DOO & PS\Desenvolvimento Orientado a Objetos (DOO)\Design Patterns\Behavioral Patterns\Iterator\obj\Debug\net9.0\app.dll
+C:\Users\R2\code\study\university\DOO & PS\Desenvolvimento Orientado a Objetos (DOO)\Design Patterns\Behavioral Patterns\Iterator\obj\Debug\net9.0\refint\app.dll
+C:\Users\R2\code\study\university\DOO & PS\Desenvolvimento Orientado a Objetos (DOO)\Design Patterns\Behavioral Patterns\Iterator\obj\Debug\net9.0\app.pdb
+C:\Users\R2\code\study\university\DOO & PS\Desenvolvimento Orientado a Objetos (DOO)\Design Patterns\Behavioral Patterns\Iterator\obj\Debug\net9.0\app.genruntimeconfig.cache
+C:\Users\R2\code\study\university\DOO & PS\Desenvolvimento Orientado a Objetos (DOO)\Design Patterns\Behavioral Patterns\Iterator\obj\Debug\net9.0\ref\app.dll
